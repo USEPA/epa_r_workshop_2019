@@ -1,0 +1,81 @@
+---
+title: "USEPA R User Group Workshop Agenda"
+editor_options:
+  chunk_output_type: console
+date: "2017-09-11 to 2017-09-13"
+output:
+  html_document:
+    df_print: paged
+---
+
+#### On-line participation details:
+
+The webinar will be active on Monday, Sep 11 from 1pm - 5pm and on Wednesday from 8:45am to Noon.  The workshops will not be available for on-line participation. Audio will be availble via the webinar link; however, should you run into problems the call-in number may also be used.
+
+- webinar link: <https://epawebconferencing.acms.com/rusergroup/>
+- call-in #: 1-866-299-3188, code: 5135697635#
+
+#### On-site details:
+
+The workshop starts at 1pm; however you may arrive as early as 11am to check in.  
+
+The workshop is being held at the Bureau of Labor Statistics, 2 Massachusetts Ave NE, Washington, DC. The workshop will take place in rooms 7 and 8 in the Janet Norwood Conference and Training Center.  Here are [directions to the BLS](https://www.bls.gov/bls/directions.htm). Note that the visitor’s entrance is on 1st Street.
+
+When you arrive at BLS, let the guard know that you are with the EPA R Workshop for entry into the facility. A valid picture ID is required. Once you go through the scanner, head straight and go past the escalator, where you will find the elevators to your left. Go down to Level G. You will see the entrance to the conference center – to your left – after you leave the elevator area. The workshop will take place in Rooms 7 and 8, which are past the conference center reception area and to the left.
+
+## Mon, Sep. 11
+
+|Time   |Title                         |Speaker                    |
+|-------|------------------------------|---------------------------|
+|11:00 AM - 1:00 PM|Registration||
+|1:00 PM - 1:10 PM|Introduction|Jeff Hollister and Ann Vega, US EPA, Office of Research and Development|
+|1:10 PM - 1:30 PM|Welcome|Harvey Simon, US EPA, Office of Environmental Information, Acting Deputy CIO|
+|**Keynote Address**|||
+|1:30 PM - 2:30 PM|Air Quality Epidemiology and R|Joel Schwartz, Harvard University, T.H. Chan School of Public Health|
+|2:30 PM - 3:00 PM|**Break**||
+|**R Across the Federal Gov**|||
+|3:00 PM - 3:20 PM|R: Innovating at the Bureau of Labor Statistics|Arcenis Rojas, Bureau of Labor Statistics|
+|3:20 PM - 3:40 PM|In with the New: a Shiny App for Exploring Summary Data Tables from the Medical Expenditure Panel Survey|Emily Mitchell, Agency for Healthcare Research and Quality|
+|3:40 PM - 4:00 PM|An R Shiny Implementation for Clinical Review Tools at the FDA|Jimmy Wong, Food and Drug Administration|
+|4:00 PM - 4:20 PM|Reproducibility and Applications|Richard Schwinn, Small Business Administration|
+|4:20 PM - 4:40 PM|Some Uses of R at USDA NASS|Nathan Cruze, National Agricultural Statistics Service|
+|4:40 PM - 5:00 PM|Discussion of using R at Federal Agencies|Ann Vega, U.S. Environmental Protection Agency|
+|**Evening Activities**|||
+|5:00 PM - 6:30 PM|Informal Social|Dubliner Irish Pub & Restaurant|
+
+## Tues, Sep. 12
+
+|Time   |Title                         |Speaker                    |
+|-------|------------------------------|---------------------------|
+|**Morning Workshops**|||
+|8:00 AM - 11:30 AM|[Introduction to R - Part 1](intro_r_workshop.html)|Wendy Martinez, Bureau of Labor Statistics|
+|8:00 AM - 11:30 AM|[Spatial Analysis/GIS with R](https://github.com/usepa/rspatial_workshop)|Jeff Hollister, US EPA, Office of Research and Development|
+|8:00 AM - 11:30 AM|[Data Visualization with ggplot2](data_vis_workshop.html)|Lou Reynolds, US EPA, Region 3|
+|**Lunch**|||
+|11:30 AM - 1:30 PM||On your own|
+|**Afternoon Workshops**|||
+|1:30 PM - 5:00 PM|[Introduction to R - Part 2](intro_r_workshop.html)|Wendy Martinez, Bureau of Labor Statistics|
+|1:30 PM - 5:00 PM|[Spatial Analysis/GIS with R](https://github.com/usepa/rspatial_workshop)|Jeff Hollister, US EPA, Office of Research and Development|
+|1:30 PM - 5:00 PM|[Data Visualization with ggplot2](data_vis_workshop.html)|Lou Reynolds, US EPA, Region 3|
+
+## Wed, Sep 13
+
+|Time   |Title                         |Speaker                    |
+|-------|------------------------------|---------------------------|
+|8:45 AM - 9:00 AM|Welcome Day 2||   
+|**R at US EPA**|||
+|9:00 AM - 9:20 AM|Hierarchical modeling: an overview and an environmental application|Mike Messner, US EPA, Office of Water|
+|9:20 AM - 9:40 AM|Trend Analysis|David Farrar, US EPA, Office of Research and Development|
+|9:40 AM - 10:00 AM|"AIRPORT", the AQS Shiny App|Stephen Krabbe, US EPA, Region 7|
+|10:00 AM - 10:20 AM|A Shiny app for QCing continuous stream sensor data|David Gibbs, US EPA, ORISE Participant|
+|10:20 AM - 10:40 AM|Water quality portal data discovery and analysis tools|Britt Dean, US EPA, ORISE Participant and Laura Shumway, US EPA, Office of Water|
+|10:40 AM - 11:00 AM|[R packages as a reproducible framework for lake and cyanobacteria research](https://usepa.github.io/reproducible_lakes)|Jeff Hollister, US EPA, Office of Research and Development|
+|11:00 AM - 11:15 AM|**Break**||
+|**Short Talks**|||
+|11:15 AM - 11:25 AM|Using R to write control code for a CNC router|Michael Messner, US EPA, Office of Water|
+|11:25 AM - 11:35 AM|Using R to Analyze GeoSpatial Multi-Pollutant Data|Marta Fuoco, US EPA, Region 5|
+|11:35 AM - 11:45 AM|Organizing Data from Long-to-Wide Format – Issues and Troubleshooting|Austin Heinrich, US EPA, Office of Water|
+|11:45 AM - 11:50 AM|Questions?|| 
+|11:50 AM - Noon|Wrap-up|Ann Vega|
+
+*Note:  This agenda is lovingly made with RStudio, R, `rmarkdown`, and `knitr`.  If interested, as Jeff for details, or look at the [source](index.Rmd)*
