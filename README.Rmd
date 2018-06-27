@@ -4,7 +4,7 @@ editor_options:
   chunk_output_type: console
 date: "2018-09-10 to 2018-09-12"
 output:
-  github_document:
+  github_document
 ---
 
 #### On-line participation details:
