@@ -1,6 +1,5 @@
 2018 USEPA R User Group Workshop Agenda
 ================
-2018-09-10 to 2018-09-12
 
 #### On-line participation details:
 
