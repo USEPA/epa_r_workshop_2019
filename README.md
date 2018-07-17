@@ -1,10 +1,4 @@
----
-title: "2018 USEPA R User Group Workshop Agenda"
-editor_options:
-  chunk_output_type: console
-output:
-  github_document
----
+## 2018 USEPA R User Group Workshop Agenda
 
 #### On-line participation details:
 
