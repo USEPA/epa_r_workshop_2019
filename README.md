@@ -39,14 +39,14 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC] 
 |Time   |Title                         |Speaker                    |
 |-------|------------------------------|---------------------------|
 |**Morning Workshops**|||
-|8:00 AM - 11:30 AM|Introduction to R - Part 1|Jeff Hollister, US EPA, ORD and Clinton McCrowey, US EPA, Region 3|
-|8:00 AM - 11:30 AM|Mapping/Spatial Analysis|TBD|
-|8:00 AM - 11:30 AM|Using LaTeX and Markdown for Reproducible Research|Eric Beck, US EPA, Region 1 and|
+|8:00 AM - 11:30 AM|Introduction to R - Part 1|Jeff Hollister, US EPA, ORD/NHEERL and Clinton McCrowey, US EPA, Region 3|
+|8:00 AM - 11:30 AM|Mapping/Spatial Analysis|Marc Weber, US EPA, ORD/NHEERL|
+|8:00 AM - 11:30 AM|Using LaTeX and Markdown for Reproducible Research|Eric Beck, US EPA, Region 1 and Emily Li, US EPA, ORD/NRMRL|
 |**Lunch**|||
 |11:30 AM - 1:30 PM||On your own|
 |**Afternoon Workshops**|||
 |1:30 PM - 5:00 PM|Introduction to R - Part 2|Jeff Hollister, US EPA, ORD and Clinton McCrowey, US EPA, Region 3|
-|1:30 PM - 5:00 PM|Network Analysis/Graph Analysis techniques|TBD|
+|1:30 PM - 5:00 PM|Network Analysis/Graph Analysis techniques|Nate Pollesch, US EPA, ORD/NHEERL|
 |1:30 PM - 5:00 PM|Shiny|Phil Bowsher, RStudio|
 
 ## Wed, Sep 12
