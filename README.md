@@ -40,24 +40,22 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC] 
 |-------|------------------------------|---------------------------|
 |**Morning Workshops**|||
 |8:00 AM - 11:30 AM|Introduction to R - Part 1|Jeff Hollister, US EPA, ORD and Clinton McCrowey, US EPA, Region 3|
-|8:00 AM - 11:30 AM|TBD selected from Network Analysis, Spatial Analysis, LaTeX|TBD|
-|8:00 AM - 11:30 AM|TBD selected from Network Analysis, Spatial Analysis, LaTeX|TBD|
-|8:00 AM - 11:30 AM|TBD selected from Network Analysis, Spatial Analysis, LaTeX|TBD|
+|8:00 AM - 11:30 AM|Mapping/Spatial Analysis|TBD|
+|8:00 AM - 11:30 AM|Using LaTeX and Markdown for Reproducible Research|Eric Beck, US EPA, Region 1 and|
 |**Lunch**|||
 |11:30 AM - 1:30 PM||On your own|
 |**Afternoon Workshops**|||
 |1:30 PM - 5:00 PM|Introduction to R - Part 2|Jeff Hollister, US EPA, ORD and Clinton McCrowey, US EPA, Region 3|
-|1:30 PM - 5:00 PM|TBD selected from Network Analysis, Spatial Analysis, LaTeX|TBD|
-|1:30 PM - 5:00 PM|TBD selected from Network Analysis, Spatial Analysis, LaTeX|TBD|
-|1:30 PM - 5:00 PM|TBD selected from Network Analysis, Spatial Analysis, LaTeX|TBD|
+|1:30 PM - 5:00 PM|Network Analysis/Graph Analysis techniques|TBD|
+|1:30 PM - 5:00 PM|Shiny|Phil Bowsher, RStudio|
 
 ## Wed, Sep 12
 
 |Time   |Title                         |Speaker                    |
 |-------|------------------------------|---------------------------|
 |8:00 AM - 8:15 AM|Welcome Day 2 and Welcome to DDES Folks||   
-|**Version Control, GitHub, and Bitbucket Workshop**|||
-|8:15 AM - 11:50 AM| TBD | TBD|
+|**Workshop**|||
+|8:15 AM - 11:50 AM|Version Control, GitHub, and Bitbucket Workshop|TBD |
 |11:50 AM - Noon|Wrap-up|Ann Vega|
 
 *Note:  This agenda is lovingly made with RStudio, R, `rmarkdown`, and `knitr`.  If interested, as Jeff for details, or look at the [source](index.Rmd)*
