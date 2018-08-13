@@ -21,18 +21,17 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC] 
 |Time   |Room |Title                         |Speaker                    |
 |-------|-----|------------------------------|---------------------------|
 |11:00 AM - 1:00 PM||Registration||
-|1:00 PM - 1:10 PM|C111 A,B,C|Introduction|Jeff Hollister (or someone else) and Ann Vega, US EPA, Office of Research and Development|
+|1:00 PM - 1:10 PM|C111 A,B,C|Introduction|Jeff Hollister and Ann Vega, US EPA, Office of Research and Development|
 |1:10 PM - 1:30 PM|C111 A,B,C|Welcome|Some Important EPA Person|
 |**Keynote Address**|||
 |1:30 PM - 2:30 PM|C111 A,B,C|Data Science for Public Goods|Noam Ross, EcoHealth Alliance|
 |2:30 PM - 3:00 PM||**Break**||
 |**Other Talks**||||
-|3:00 PM - 3:20 PM|C111 A,B,C|TBD|TBD|
-|3:20 PM - 3:40 PM|C111 A,B,C|TBD|TBD|
-|3:40 PM - 4:00 PM|C111 A,B,C|TBD|TBD|
-|4:00 PM - 4:20 PM|C111 A,B,C|TBD|TBD|
-|4:20 PM - 4:40 PM|C111 A,B,C|TBD|TBD|
-|4:40 PM - 5:00 PM|C111 A,B,C|TBD|TBD|
+|3:00 PM - 3:20 PM|C111 A,B,C|Packaging your research problem: the case of CityWaterBalance for R|Laura Erban, US EPA, ORD/NHEERL|
+|3:25 PM - 3:45 PM|C111 A,B,C|TBD|Stephanie Wilson, US EPA, Region 2|
+|3:50 PM - 4:10 PM|C111 A,B,C|TBD|Tom Purucker, US EPA, ORD/NERL (tentative)|
+|4:15 PM - 4:35 PM|C111 A,B,C|TBD|Kristen Foley, US EPA, ORD/NERL |
+|4:40 PM - 5:00 PM|C111 A,B,C|TBD|Cole Arendt, RStudio (tentative)|
 |**Evening Activities**||||
 |5:00 PM - 6:30 PM|||Informal Social|Some Place In North Carolina|
 
@@ -41,15 +40,15 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC] 
 |Time   |Room |Title                         |Speaker                    |
 |-------|-----|------------------------------|---------------------------|
 |**Morning Workshops**|||
-|8:00 AM - 11:30 AM|C111 C|Introduction to R - Part 1|Jeff Hollister, US EPA, ORD/NHEERL and Clinton McCrowey, US EPA, Region 3|
-|8:00 AM - 11:30 AM||Working with Spatial Data in R|Marc Weber, US EPA, ORD/NHEERL|
-|8:00 AM - 11:30 AM|C111 A|Using LaTeX and Markdown for Reproducible Research|Eric Beck, US EPA, Region 1 and Emily Li, US EPA, ORD/NRMRL|
+|8:00 AM - 11:30 AM|C111A|Introduction to R - Part 1|Jeff Hollister, US EPA, ORD/NHEERL and Clinton McCrowey, US EPA, Region 3|
+|8:00 AM - 11:30 AM|C112|Working with Spatial Data in R|Marc Weber, US EPA, ORD/NHEERL|
+|8:00 AM - 11:30 AM|C111C|Using LaTeX and Markdown for Reproducible Research|Eric Beck, US EPA, Region 1 and Emily Li, US EPA, ORD/NRMRL|
 |**Lunch**||||
 |11:30 AM - 1:30 PM|||On your own|
 |**Afternoon Workshops**|||||
-|1:30 PM - 5:00 PM|||Introduction to R - Part 2|Jeff Hollister, US EPA, ORD and Clinton McCrowey, US EPA, Region 3|
-|1:30 PM - 5:00 PM|||Network Analysis/Graph Analysis techniques|Nate Pollesch, US EPA, ORD/NHEERL|
-|1:30 PM - 5:00 PM|||Shiny|Phil Bowsher, RStudio|
+|1:30 PM - 5:00 PM|C111A|Introduction to R - Part 2|Jeff Hollister, US EPA, ORD and Clinton McCrowey, US EPA, Region 3|
+|1:30 PM - 5:00 PM|C114|Network Analysis/Graph Analysis techniques|Nate Pollesch, US EPA, ORD/NHEERL|
+|1:30 PM - 5:00 PM|C111C|Shiny|Phil Bowsher, RStudio|
 
 ## Wed, Sep 12
 
