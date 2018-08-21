@@ -14,7 +14,7 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC] 
 - **Working with Spatial Data in R (Half Day):** This workshop will focus on the fundamentals of working with spatial data in R – reading and writing spatial data, dealing with map projections, packages for handling both vector and raster data, and visualizing and mapping spatial data in R.  After covering fundamentals, we’ll move through example exercise demonstrating spatial operations such as spatial joins, spatial subsetting, spatial aggregatuibm cropping raster data, and extracting raster data for points and we’ll make use of packages such as sf, sp, raster, rgdal, maptools, and several others.  A basic working knowledge of R will be assumed.
 - **Using LaTeX and Markdown for Reproducible Research (Half Day):** Taking a modular approach and a stepwise fashion, participants will be introduced to the basics of LaTeX, Markdown, and the R package knitr. Participants will then get to use these modules synchronously to facilitate reproducible reports and research with R.
 - **Network Analysis/Graph Analysis techniques (Half Day):** Networks and graphs are a flexible framework for organizing complex interactions between large number of entities.  In this workshop, using the igraph package in R, we will start from scratch by building a small network.  We will then import a larger more complicated network and go through the process of encoding node and edge attributes.  We will discuss graph layout options and complete some standard analyses.  In the end, participants will gain a familiarity with the how to build, import, visualize and analyze networks in R.
-- **Shiny (Half Day):**
+- **An Introduction to Shiny, R Markdown & htmlwidgets with Applications in Research (Half Day):** RStudio will be presenting an overview of creating interactive visualizations, dashboards and Shiny Apps. This short course will provide an introduction to flexible and powerful tools for statistical analysis, reproducible research and interactive visualizations. The hands-on course will include an overview of how to build Shiny apps and R Markdown documents.
 
 ## Mon, Sep. 10
 
@@ -28,9 +28,9 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC] 
 |2:30 PM - 3:00 PM||**Break**||
 |**Talks**||||
 |3:00 PM - 3:20 PM|C111 A,B,C|Packaging your research problem: the case of CityWaterBalance for R|Laura Erban, US EPA, ORD/NHEERL|
-|3:25 PM - 3:45 PM|C111 A,B,C|TBD|Stephanie Wilson, US EPA, Region 2 (tentative)|
+|3:25 PM - 3:45 PM|C111 A,B,C|TBD|Stephanie Wilson, US EPA, Region 2|
 |3:50 PM - 4:10 PM|C111 A,B,C|Using R and MCMC for Amphibian Exposure Model Selection and Parameterization|Tom Purucker, US EPA, ORD/NERL|
-|4:15 PM - 4:35 PM|C111 A,B,C|TBD|Kristen Foley, US EPA, ORD/NERL |
+|4:15 PM - 4:35 PM|C111 A,B,C|Evaluation of a numerical air quality model: From scatter plots to uncertainty quantification|Kristen Foley, US EPA, ORD/NERL |
 |4:40 PM - 5:00 PM|C111 A,B,C|TBD|Cole Arendt, RStudio (tentative)|
 |5:05 PM - 5:25 PM|C111 A,B,C|TBD|Benjamin Wells, US EPA, OAQPS|
 |**Evening Activities**||||
@@ -49,7 +49,7 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC] 
 |**Afternoon Workshops**|||||
 |1:30 PM - 5:00 PM|C111A|Introduction to R - Part 2|Jeff Hollister, US EPA, ORD and Clinton McCrowey, US EPA, Region 3|
 |1:30 PM - 5:00 PM|C114|Network Analysis/Graph Analysis techniques|Nate Pollesch, US EPA, ORD/NHEERL|
-|1:30 PM - 5:00 PM|C111C|Shiny|Phil Bowsher, RStudio|
+|1:30 PM - 5:00 PM|C111C|An Introduction to Shiny, R Markdown & htmlwidgets with Applications in Research|Phil Bowsher, RStudio|
 
 ## Wed, Sep 12
 
