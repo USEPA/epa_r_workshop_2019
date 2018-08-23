@@ -21,8 +21,8 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC] 
 |Time   |Room |Title                         |Speaker                    |
 |-------|-----|------------------------------|---------------------------|
 |11:00 AM - 1:00 PM||Registration||
-|1:00 PM - 1:10 PM|C111 A,B,C|Introduction|Jeff Hollister and Ann Vega, US EPA, Office of Research and Development|
-|1:10 PM - 1:30 PM|C111 A,B,C|Welcome|Some Important EPA Person|
+|1:00 PM - 1:10 PM|C111 A,B,C|Introduction|Jeff Hollister, Ann Vega and Richard Allen, US EPA, Office of Research and Development|
+|1:10 PM - 1:30 PM|C111 A,B,C|Welcome|Vaughn Noga, Principal Deputy Assistant Administrator and Deputy Chief Information Officer, US EPA, OEI|
 |**Keynote Address**|||
 |1:30 PM - 2:30 PM|C111 A,B,C|Data Science for Public Goods|Noam Ross, EcoHealth Alliance|
 |2:30 PM - 3:00 PM||**Break**||
