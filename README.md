@@ -31,7 +31,7 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC] 
 |3:25 PM - 3:45 PM|C111 A,B,C|TBD|Cole Arendt, RStudio|
 |3:50 PM - 4:10 PM|C111 A,B,C|Using R and MCMC for Amphibian Exposure Model Selection and Parameterization|Tom Purucker, US EPA, ORD/NERL|
 |4:15 PM - 4:35 PM|C111 A,B,C|Evaluation of a numerical air quality model: From scatter plots to uncertainty quantification|Kristen Foley, US EPA, ORD/NERL |
-|4:40 PM - 5:00 PM|C111 A,B,C|TBD|Stephanie Wilson, US EPA, Region 2|
+|4:40 PM - 5:00 PM|C111 A,B,C|Machine Learning to Predict Inspection Outcomes|Stephanie Wilson, US EPA, Region 2|
 |5:05 PM - 5:25 PM|C111 A,B,C|TBD|Benjamin Wells, US EPA, OAQPS|
 |**Evening Activities**||||
 |5:30 PM - 6:30 PM|Some Place In North Carolina|Informal Social|All!|
