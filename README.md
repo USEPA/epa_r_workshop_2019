@@ -57,7 +57,7 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC] 
 |-------|-----|------------------------------|---------------------------|
 |8:00 AM - 8:15 AM||Welcome Day 2 and Welcome to DDES Folks||   
 |**Workshop**||||
-|8:15 AM - 11:50 AM|C111 A,B,C|Version Control, GitHub, and Bitbucket Workshop|Many Presenters|
+|8:15 AM - 11:50 AM|C111 A,B,C|Version Control, GitHub, and Bitbucket Workshop|Jameel Alsalam, Terry Brown, Sharon Kenny|
 |11:50 AM - Noon||Wrap-up|Ann Vega|
 
 *Note:  This agenda is lovingly made with RStudio, R, `rmarkdown`, and `knitr`.  If interested, as Jeff for details, or look at the [source](index.Rmd)*
