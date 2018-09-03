@@ -6,7 +6,7 @@ There will be a remote participation option for the presentations and workshops.
 
 #### On-site details:
 
-The workshop is being held at the [US EPA campus in Research Triangle Park, NC] (https://www.epa.gov/aboutepa/about-epas-campus-research-triangle-park-rtp-north-carolina).  Details and directions for those visiting will be posted at a later date.
+The workshop is being held at the [US EPA campus in Research Triangle Park, NC](https://www.epa.gov/aboutepa/about-epas-campus-research-triangle-park-rtp-north-carolina).  Details and directions for those visiting will be posted at a later date.
 
 #### Workshop summaries:
 
