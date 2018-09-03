@@ -28,9 +28,9 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC] 
 |2:30 PM - 3:00 PM||**Break**||
 |**Talks**||||
 |3:00 PM - 3:20 PM|C111 A,B,C|Packaging your research problem: the case of CityWaterBalance for R|Laura Erban, US EPA, ORD/NHEERL|
-|3:25 PM - 3:45 PM|C111 A,B,C|TBD|Cole Arendt, RStudio|
+|3:25 PM - 3:45 PM|C111 A,B,C|Package Management for Reproducible R Code|Cole Arendt, RStudio|
 |3:50 PM - 4:10 PM|C111 A,B,C|Using R and MCMC for Amphibian Exposure Model Selection and Parameterization|Tom Purucker, US EPA, ORD/NERL|
-|4:15 PM - 4:35 PM|C111 A,B,C|Evaluation of a numerical air quality model: From scatter plots to uncertainty quantification|Kristen Foley, US EPA, ORD/NERL |
+|4:15 PM - 4:35 PM|C111 A,B,C|Evaluation of a numerical air quality model: Data wrangling large NetCDF files with R|Kristen Foley, US EPA, ORD/NERL |
 |4:40 PM - 5:00 PM|C111 A,B,C|Machine Learning to Predict Inspection Outcomes|Stephanie Wilson, US EPA, Region 2|
 |5:05 PM - 5:25 PM|C111 A,B,C|TBD|Benjamin Wells, US EPA, OAQPS|
 |**Evening Activities**||||
