@@ -6,7 +6,7 @@ There will be a remote participation option for the presentations and workshops.
 
 #### On-site details:
 
-The workshop is being held at the [US EPA campus in Research Triangle Park, NC](https://www.epa.gov/aboutepa/about-epas-campus-research-triangle-park-rtp-north-carolina).  Details and directions for those visiting will be posted at a later date.
+The workshop is being held at the [US EPA campus in Research Triangle Park, NC](https://www.epa.gov/aboutepa/about-epas-campus-research-triangle-park-rtp-north-carolina).  
 
 #### Workshop summaries:
 
@@ -18,11 +18,12 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC](
 - **Version Control, GitHub, and Bitbucket Workshop (Half Day):** The basics of using git and GitHub for version control and reproducible research at EPA, with an introduction to EPA's new Bitbucket services.  An overview presentation will be followed by a hands on session.
 
 ## Mon, Sep. 10
+[Webinar Details](#webinar-links)
 
 |Time   |Room |Title                         |Speaker                    |
 |-------|-----|------------------------------|---------------------------|
 |11:00 AM - 1:00 PM||Registration||
-|1:00 PM - 1:10 PM|C111 A,B,C|Introduction|Jeff Hollister, Ann Vega and Richard Allen, US EPA, Office of Research and Development|
+|1:00 PM - 1:10 PM|C111 A,B,C|Introduction|Jeff Hollister, Ann Vega and Richard Allen, US EPA, Office of Research and Development||
 |1:10 PM - 1:30 PM|C111 A,B,C|Welcome|Vaughn Noga, Principal Deputy Assistant Administrator and Deputy Chief Information Officer, US EPA, OEI|
 |**Keynote Address**|||
 |1:30 PM - 2:30 PM|C111 A,B,C|Data Science for Public Goods|Noam Ross, EcoHealth Alliance|
@@ -35,7 +36,7 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC](
 |4:40 PM - 5:00 PM|C111 A,B,C|Using R and Machine Learning to Predict Inspection Outcomes|Stephanie Wilson, US EPA, Region 2|
 |5:05 PM - 5:25 PM|C111 A,B,C|Ambient Air Monitoring Network Assessment Tools using R shiny|Benjamin Wells, US EPA, OAQPS|
 |**Evening Activities**||||
-|5:30 PM - 6:30 PM|Some Place In North Carolina|Informal Social|All!|
+|5:30 PM - 6:30 PM|[Hilton Garden Inn Durham Southpoint, 7007 Fayetteville Road, Durham, NC](http://hiltongardeninn3.hilton.com/en/hotels/north-carolina/hilton-garden-inn-durham-southpoint-RDUSPGI/index.html)|Informal Social|All!|
 
 ## Tues, Sep. 11
 
@@ -52,7 +53,7 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC](
 |1:30 PM - 5:00 PM|C114|Network Analysis/Graph Analysis techniques|Nate Pollesch, US EPA, ORD/NHEERL|
 |1:30 PM - 5:00 PM|C111C|An Introduction to Shiny, R Markdown & htmlwidgets with Applications in Research|Phil Bowsher, RStudio|
 
-## Wed, Sep 12
+## Wed, Sep. 12
 
 |Time   |Room |Title                         |Speaker                    |
 |-------|-----|------------------------------|---------------------------|
@@ -61,3 +62,15 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC](
 |8:15 AM - 11:50 AM|C111 A,B,C|Version Control, GitHub, and Bitbucket Workshop|Jameel Alsalam, Terry Brown, Sharon Kenny|
 |11:50 AM - Noon||Wrap-up|Ann Vega|
 
+## Webinar Links
+
+|Date|Time|Title|Link|Call-in|
+|----|----|-----|----|-------|
+|Mon, Sep 10|1:00 PM - 5:25 PM|Keynote and Presentations|[Skype Webinar Link](https://meet.lync.com/usepa/vega.ann/3VGRFW9V)|Call-in number: 1-202-991-0477, Access code/Conference ID: 8603858|
+|Tues, Sep. 11|8:00 AM - 11:30 AM|Introduction to R - Part 1|[Skype Webinar Link](https://meet.lync.com/usepa/burch.kerry/RMSB14C8)|Call-in number: 1-202-991-0477, Access code/Conference ID: 7404609|
+|Tues, Sep. 11|8:00 AM - 11:30 AM|Working with Spatial Data in R|[Skype Webinar Link](https://meet.lync.com/usepa/childress.velez/2TG0P3YW)|Call-in number: 1-202-991-0477, Access code/Conference ID: 3802797|
+|Tues, Sep. 11|8:00 AM - 11:30 AM|Using LaTeX and Markdown for Reproducible Research|[Skype Webinar Link](https://meet.lync.com/usepa/vega.ann/KLHS7FPZ)|Call-in number: 1-202-991-0477, Access code/Conference ID: 8603858|
+|Tues, Sep. 11|1:30 PM - 5:00 PM|Introduction to R - Part 2|[Skype Webinar Link](https://meet.lync.com/usepa/burch.kerry/WGC27L0Q)|Call-in number: 1-202-991-0477, Access code/Conference ID: 7404609|
+|Tues, Sep. 11|1:30 PM - 5:00 PM|Network Analysis/Graph Analysis techniques|[Skype Webinar Link](https://meet.lync.com/usepa/childress.velez/PVKG8MK5)|Call-in number: 1-202-991-0477, Access code/Conference ID: 3802797|
+|Tues, Sep. 11|1:30 PM - 5:00 PM|An Introduction to Shiny, R Markdown & htmlwidgets with Applications in Research|[Skype Webinar Link](https://meet.lync.com/usepa/vega.ann/WW39Z6W0)|Call-in number: 1-202-991-0477, Access code/Conference ID: 8603858|
+|Wed, Sep. 12|8:15 AM - 11:50 AM|Version Control, GitHub, and BitBucket Workshop|Skype Webinar Link()|Call-in number: 1-202-991-0477, Access code/Conference ID: TBD|
