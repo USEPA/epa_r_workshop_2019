@@ -73,4 +73,4 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC](
 |Tues, Sep. 11|1:30 PM - 5:00 PM|Introduction to R - Part 2|[Skype Webinar Link](https://meet.lync.com/usepa/burch.kerry/WGC27L0Q)|Call-in number: 1-202-991-0477, Access code/Conference ID: 7404609|
 |Tues, Sep. 11|1:30 PM - 5:00 PM|Network Analysis/Graph Analysis techniques|[Skype Webinar Link](https://meet.lync.com/usepa/childress.velez/PVKG8MK5)|Call-in number: 1-202-991-0477, Access code/Conference ID: 3802797|
 |Tues, Sep. 11|1:30 PM - 5:00 PM|An Introduction to Shiny, R Markdown & htmlwidgets with Applications in Research|[Skype Webinar Link](https://meet.lync.com/usepa/vega.ann/WW39Z6W0)|Call-in number: 1-202-991-0477, Access code/Conference ID: 8603858|
-|Wed, Sep. 12|8:15 AM - 11:50 AM|Version Control, GitHub, and BitBucket Workshop|Skype Webinar Link()|Call-in number: 1-202-991-0477, Access code/Conference ID: TBD|
+|Wed, Sep. 12|8:15 AM - 11:50 AM|Version Control, GitHub, and BitBucket Workshop|[Skype Webinar Link]()|Call-in number: 1-202-991-0477, Access code/Conference ID: TBD|
