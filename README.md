@@ -3,7 +3,7 @@
 
 #### On-line participation details:
 
-There will be a remote participation option for the presentations and workshops.  Details will be posted here closer to workshop date.
+There will be a remote participation option for the presentations and workshops.  Details with [Webinar Details](#webinar-links) are listed below.
 
 #### On-site details:
 
@@ -19,7 +19,7 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC](
 - **Version Control, GitHub, and Bitbucket Workshop (Half Day):** The basics of using git and GitHub for version control and reproducible research at EPA, with an introduction to EPA's new Bitbucket services.  An overview presentation will be followed by a hands on session.
 
 ## Mon, Sep. 10
-[Webinar Details](#webinar-links)
+
 
 |Time   |Room |Title                         |Speaker                    |
 |-------|-----|------------------------------|---------------------------|
