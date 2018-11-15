@@ -1,5 +1,5 @@
 
-## 2018 USEPA R User Group Workshop Agenda
+## 2019 USEPA R User Group Workshop Agenda
 
 #### On-line participation details:
 
@@ -18,7 +18,7 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC](
 - **An Introduction to Shiny, R Markdown & htmlwidgets with Applications in Research (Half Day):** RStudio will be presenting an overview of creating interactive visualizations, dashboards and Shiny Apps. This short course will provide an introduction to flexible and powerful tools for statistical analysis, reproducible research and interactive visualizations. The hands-on course will include an overview of how to build Shiny apps and R Markdown documents.
 - **Version Control, GitHub, and Bitbucket Workshop (Half Day):** The basics of using git and GitHub for version control and reproducible research at EPA, with an introduction to EPA's new Bitbucket services.  An overview presentation will be followed by a hands on session.
 
-## Mon, Sep. 10
+## Mon, March 4
 
 
 |Time   |Room |Title                         |Speaker                    |
@@ -39,7 +39,7 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC](
 |**Evening Activities**||||
 |5:30 PM - 6:30 PM|[Hilton Garden Inn Durham Southpoint, 7007 Fayetteville Road, Durham, NC](http://hiltongardeninn3.hilton.com/en/hotels/north-carolina/hilton-garden-inn-durham-southpoint-RDUSPGI/index.html)|Informal Social|All!|
 
-## Tues, Sep. 11
+## Tues, March 5
 
 |Time   |Room |Title                         |Speaker                    |
 |-------|-----|------------------------------|---------------------------|
@@ -54,7 +54,7 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC](
 |1:30 PM - 5:00 PM|C114|Network Analysis/Graph Analysis techniques|Nate Pollesch, US EPA, ORD/NHEERL|
 |1:30 PM - 5:00 PM|C111C|An Introduction to Shiny, R Markdown & htmlwidgets with Applications in Research|Phil Bowsher, RStudio|
 
-## Wed, Sep. 12
+## Wed, March 6
 
 |Time   |Room |Title                         |Speaker                    |
 |-------|-----|------------------------------|---------------------------|
