@@ -27,30 +27,30 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC](
 |1:00 PM - 1:10 PM|C111 A,B,C|Introduction|Jeff Hollister, Ann Vega and Richard Allen, US EPA, Office of Research and Development||
 |1:10 PM - 1:30 PM|C111 A,B,C|Welcome|Vaughn Noga, Principal Deputy Assistant Administrator and Deputy Chief Information Officer, US EPA, OEI|
 |**Keynote Address**|||
-|1:30 PM - 2:30 PM|C111 A,B,C|Data Science for Public Goods|Noam Ross, EcoHealth Alliance|
+|1:30 PM - 2:30 PM|C111 A,B,C|Spreadsheets and *BLEEP!!* (real title: TBD)|JD Long, RenaissanceRe|
 |2:30 PM - 3:00 PM||**Break**||
 |**Talks**||||
 |3:00 PM - 3:20 PM|C111 A,B,C|Packaging your research problem: the case of CityWaterBalance for R|Laura Erban, US EPA, ORD/NHEERL|
 |3:25 PM - 3:45 PM|C111 A,B,C|Package Management for Reproducible R Code|Cole Arendt, RStudio|
 |3:50 PM - 4:10 PM|C111 A,B,C|Using R and MCMC for Amphibian Exposure Model Selection and Parameterization|Tom Purucker, US EPA, ORD/NERL|
 |4:15 PM - 4:35 PM|C111 A,B,C|Evaluation of a numerical air quality model: Data wrangling large NetCDF files with R|Kristen Foley, US EPA, ORD/NERL |
-|4:40 PM - 5:00 PM|C111 A,B,C|Using R and Machine Learning to Predict Inspection Outcomes|Stephanie Wilson, US EPA, Region 2|
-|5:05 PM - 5:25 PM|C111 A,B,C|Ambient Air Monitoring Network Assessment Tools using R shiny|Benjamin Wells, US EPA, OAQPS|
+|4:40 PM - 5:00 PM|C111 A,B,C|Machine Learning at EPA: Who, What, Where, When, and Why|Elizabeth Mannshardt, US EPA, OMS/IAASD|
+|5:05 PM - 5:25 PM|C111 A,B,C|Ambient Air Monitoring Network Assessment Tools using R shiny|Benjamin Wells, US EPA, OAR/OAQPS|
 |**Evening Activities**||||
-|5:30 PM - 6:30 PM|[Hilton Garden Inn Durham Southpoint, 7007 Fayetteville Road, Durham, NC](http://hiltongardeninn3.hilton.com/en/hotels/north-carolina/hilton-garden-inn-durham-southpoint-RDUSPGI/index.html)|Informal Social|All!|
+|5:30 PM - 6:30 PM|[Marriott at Research Triangle Park](https://www.marriott.com/hotels/travel/rducp-marriott-at-research-triangle-park/)|Informal Social|All!|
 
 ## Tues, August 13
 
 |Time   |Room |Title                         |Speaker                    |
 |-------|-----|------------------------------|---------------------------|
 |**Morning Workshops**|||
-|8:00 AM - 11:30 AM|C111A|[Introduction to R - Part 1](https://github.com/USEPA/intro_r_workshop)|Jeff Hollister, US EPA, ORD/NHEERL, Clinton McCrowey, US EPA, Region 3 and Noam Ross, EcoHealth Alliance|
+|8:00 AM - 11:30 AM|C111A|[Introduction to R - Part 1](https://github.com/USEPA/intro_r_workshop)|Jeff Hollister, US EPA, ORD/NHEERL, Clinton McCrowey, US EPA, Region 3|
 |8:00 AM - 11:30 AM|C112|Working with Spatial Data in R|Marc Weber, US EPA, ORD/NHEERL|
 |8:00 AM - 11:30 AM|C111C|Using LaTeX and Markdown for Reproducible Research|Eric Beck, US EPA, Region 1 and Emily Li, US EPA, ORD/NRMRL|
 |**Lunch**||||
 |11:30 AM - 1:30 PM||On your own||
 |**Afternoon Workshops**|||||
-|1:30 PM - 5:00 PM|C111A|[Introduction to R - Part 2](https://github.com/USEPA/intro_r_workshop)|Jeff Hollister, US EPA, ORD/NHEERL, Clinton McCrowey, US EPA, Region 3 and Noam Ross, EcoHealth Alliance|
+|1:30 PM - 5:00 PM|C111A|[Introduction to R - Part 2](https://github.com/USEPA/intro_r_workshop)|Jeff Hollister, US EPA, ORD/NHEERL, Clinton McCrowey, US EPA, Region 3|
 |1:30 PM - 5:00 PM|C114|Network Analysis/Graph Analysis techniques|Nate Pollesch, US EPA, ORD/NHEERL|
 |1:30 PM - 5:00 PM|C111C|An Introduction to Shiny, R Markdown & htmlwidgets with Applications in Research|Phil Bowsher, RStudio|
 
