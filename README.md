@@ -24,9 +24,9 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC](
 |Time   |Room |Title                         |Speaker                    |
 |-------|-----|------------------------------|---------------------------|
 |11:00 AM - 1:00 PM||Registration||
-|1:00 PM - 1:10 PM|C111 A,B,C|Introduction|Jeff Hollister, Ann Vega and Richard Allen, US EPA, Office of Research and Development||
-|1:10 PM - 1:30 PM|C111 A,B,C|Welcome|Vaughn Noga, Principal Deputy Assistant Administrator and Deputy Chief Information Officer, US EPA, OEI|
-|**Keynote Address**|||
+|1:00 PM - 1:10 PM|C111 A,B,C|Introduction|Jeff Hollister, Ann Vega and Richard Allen, US EPA, Office of Research and Development|
+|1:10 PM - 1:30 PM|C111 A,B,C|Welcome|Vince Allen, US EPA Chief Architect, Office of Mission Support|
+|**Keynote Address**||||
 |1:30 PM - 2:30 PM|C111 A,B,C|Spreadsheets and *BLEEP!!* (real title: TBD)|JD Long, RenaissanceRe|
 |2:30 PM - 3:00 PM||**Break**||
 |**Talks**||||
@@ -67,11 +67,11 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC](
 
 |Date|Time|Title|Link|Call-in|
 |----|----|-----|----|-------|
-|Mon, Sep 10|1:00 PM - 5:25 PM|Keynote and Presentations|[Skype Webinar Link](https://meet.lync.com/usepa/vega.ann/3VGRFW9V)|Call-in number: 1-202-991-0477, Access code/Conference ID: 8603858|
-|Tues, Sep. 11|8:00 AM - 11:30 AM|Introduction to R - Part 1|[Skype Webinar Link](https://meet.lync.com/usepa/burch.kerry/RMSB14C8)|Call-in number: 1-202-991-0477, Access code/Conference ID: 7404609|
-|Tues, Sep. 11|8:00 AM - 11:30 AM|Working with Spatial Data in R|[Skype Webinar Link](https://meet.lync.com/usepa/childress.velez/2TG0P3YW)|Call-in number: 1-202-991-0477, Access code/Conference ID: 3802797|
-|Tues, Sep. 11|8:00 AM - 11:30 AM|Using LaTeX and Markdown for Reproducible Research|[Skype Webinar Link](https://meet.lync.com/usepa/vega.ann/KLHS7FPZ)|Call-in number: 1-202-991-0477, Access code/Conference ID: 8603858|
-|Tues, Sep. 11|1:30 PM - 5:00 PM|Introduction to R - Part 2|[Skype Webinar Link](https://meet.lync.com/usepa/burch.kerry/WGC27L0Q)|Call-in number: 1-202-991-0477, Access code/Conference ID: 7404609|
-|Tues, Sep. 11|1:30 PM - 5:00 PM|Network Analysis/Graph Analysis techniques|[Skype Webinar Link](https://meet.lync.com/usepa/childress.velez/PVKG8MK5)|Call-in number: 1-202-991-0477, Access code/Conference ID: 3802797|
-|Tues, Sep. 11|1:30 PM - 5:00 PM|An Introduction to Shiny, R Markdown & htmlwidgets with Applications in Research|[Skype Webinar Link](https://meet.lync.com/usepa/vega.ann/WW39Z6W0)|Call-in number: 1-202-991-0477, Access code/Conference ID: 8603858|
-|Wed, Sep. 12|8:15 AM - 11:50 AM|Version Control, GitHub, and BitBucket Workshop|[Skype Webinar Link](https://meet.lync.com/usepa/vega.ann/MS2S23VT)|Call-in number: 1-202-991-0477, Access code/Conference ID: 8603858|
+|Mon, Aug 12|1:00 PM - 5:25 PM|Keynote and Presentations|[Skype Webinar Link - TBD]()|Call-in details: TBD|
+|Tues, Aug 13|8:00 AM - 11:30 AM|Introduction to R - Part 1|[Skype Webinar Link - TBD]()|Call-in details: TBD|
+|Tues, Aug 13|8:00 AM - 11:30 AM|Working with Spatial Data in R|[Skype Webinar Link - TBD]()|Call-in details: TBD|
+|Tues, Aug 13|8:00 AM - 11:30 AM|Using LaTeX and Markdown for Reproducible Research|[Skype Webinar Link - TBD]()|Call-in details: TBD|
+|Tues, Aug 13|1:30 PM - 5:00 PM|Introduction to R - Part 2|[Skype Webinar Link - TBD]()|Call-in details: TBD|
+|Tues, Aug 13|1:30 PM - 5:00 PM|Network Analysis/Graph Analysis techniques|[Skype Webinar Link - TBD]()|Call-in details: TBD|
+|Tues, Aug 13|1:30 PM - 5:00 PM|An Introduction to Shiny, R Markdown & htmlwidgets with Applications in Research|[Skype Webinar Link - TBD])|Call-in details: TBD|
+|Wed, Aug 14|8:15 AM - 11:50 AM|Version Control, GitHub, and BitBucket Workshop|[Skype Webinar Link - TBD]()|Call-in details: TBD|
