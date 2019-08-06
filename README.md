@@ -32,7 +32,7 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC](
 |**Talks**||||
 |3:00 PM - 3:20 PM|C111 A,B,C|Packaging your research problem: the case of CityWaterBalance for R|Laura Erban, US EPA, ORD/NHEERL|
 |3:25 PM - 3:45 PM|C111 A,B,C|Package Management for Reproducible R Code|Cole Arendt, RStudio|
-|3:50 PM - 4:10 PM|C111 A,B,C|Using R and MCMC for Amphibian Exposure Model Selection and Parameterization|Tom Purucker, US EPA, ORD/NERL|
+|3:50 PM - 4:10 PM|C111 A,B,C|Expose your R functions with an API|Tom Purucker, US EPA, ORD/NERL|
 |4:15 PM - 4:35 PM|C111 A,B,C|Evaluation of a numerical air quality model: Data wrangling large NetCDF files with R|Kristen Foley, US EPA, ORD/NERL |
 |4:40 PM - 5:00 PM|C111 A,B,C|Machine Learning at EPA: Who, What, Where, When, and Why|Elizabeth Mannshardt, US EPA, OMS/IAASD|
 |5:05 PM - 5:25 PM|C111 A,B,C|Ambient Air Monitoring Network Assessment Tools using R shiny|Benjamin Wells, US EPA, OAR/OAQPS|
@@ -45,7 +45,7 @@ The workshop is being held at the [US EPA campus in Research Triangle Park, NC](
 |-------|-----|------------------------------|---------------------------|
 |**Morning Workshops**|||
 |8:00 AM - 11:30 AM|C111A|[Introduction to R - Part 1](https://github.com/USEPA/intro_r_workshop)|Jeff Hollister, US EPA, ORD/NHEERL, Clinton McCrowey, US EPA, Region 3|
-|8:00 AM - 11:30 AM|C112|Working with Spatial Data in R|Marc Weber, US EPA, ORD/NHEERL and Michael McManus, US EPA, ORD/NCEA|
+|8:00 AM - 11:30 AM|C114|Working with Spatial Data in R|Marc Weber, US EPA, ORD/NHEERL and Michael McManus, US EPA, ORD/NCEA|
 |8:00 AM - 11:30 AM|C111C|Using LaTeX and Markdown for Reproducible Research|Eric Beck, US EPA, Region 1 and Emily Li, US EPA, ORD/NRMRL|
 |**Lunch**||||
 |11:30 AM - 1:30 PM||On your own||
