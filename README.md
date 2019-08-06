@@ -35,7 +35,7 @@ We've been using #eparstats for EPA related R events.  Feel free to live tweet, 
 
 ## Tues, August 13
 
-To find out more about each, follow this link to the "[Workshop Descriptions](#workshop-decsriptions)."
+To find out more about each, follow this link to the "[Workshop Descriptions](#workshop-descriptions)."
 
 |Time   |Room |Title                         |Speaker                    |
 |-------|-----|------------------------------|---------------------------|
