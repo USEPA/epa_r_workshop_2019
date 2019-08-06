@@ -21,7 +21,7 @@ We've been using #eparstats for EPA related R events.  Feel free to live tweet, 
 |1:00 PM - 1:10 PM|C111 A,B,C|Introduction|Jeff Hollister, US EPA, Office of Research and Development|
 |1:10 PM - 1:30 PM|C111 A,B,C|Welcome|Vince Allen, US EPA Chief Architect, Office of Mission Support|
 |**Keynote Address**||||
-|1:30 PM - 2:30 PM|C111 A,B,C|Spreadsheets and *BLEEP!!* (real title: TBD)|JD Long, RenaissanceRe|
+|1:30 PM - 2:30 PM|C111 A,B,C|Lessons from the trenches: bridging technical camps with empathy, grace, and occasional profanity|JD Long, RenaissanceRe|
 |2:30 PM - 3:00 PM||**Break**||
 |**Talks**||||
 |3:00 PM - 3:20 PM|C111 A,B,C|Packaging your research problem: the case of CityWaterBalance for R|Laura Erban, US EPA, ORD|
