@@ -60,18 +60,6 @@ To find out more about each, follow this link to the "[Workshop Descriptions](#w
 |11:25 AM - 11:45 AM|C111 A,B,C|Where to look for code|Michelle Ibarra, and others|
 |11:45 AM - Noon||Wrap-up|Ann Vega|
 
-## Webinar Links
-
-|Date|Time|Title|Link|Call-in|
-|----|----|-----|----|-------|
-|Mon, Aug 12|1:00 PM - 5:25 PM|Keynote and Presentations|[Skype Webinar Link - TBD]()|Call-in details: TBD|
-|Tues, Aug 13|8:00 AM - 11:30 AM|Introduction to R - Part 1|[Skype Webinar Link - TBD]()|Call-in details: TBD|
-|Tues, Aug 13|8:00 AM - 11:30 AM|Working with Spatial Data in R|[Skype Webinar Link - TBD]()|Call-in details: TBD|
-|Tues, Aug 13|8:00 AM - 11:30 AM|Using LaTeX and Markdown for Reproducible Research|[Skype Webinar Link - TBD]()|Call-in details: TBD|
-|Tues, Aug 13|1:30 PM - 5:00 PM|Introduction to R - Part 2|[Skype Webinar Link - TBD]()|Call-in details: TBD|
-|Tues, Aug 13|1:30 PM - 5:00 PM|Network Analysis/Graph Analysis techniques|[Skype Webinar Link - TBD]()|Call-in details: TBD|
-|Tues, Aug 13|1:30 PM - 5:00 PM|An Introduction to Shiny, R Markdown & htmlwidgets with Applications in Research|[Skype Webinar Link - TBD])|Call-in details: TBD|
-|Wed, Aug 14|8:15 AM - 11:50 AM|Version Control, GitHub, and BitBucket Workshop|[Skype Webinar Link - TBD]()|Call-in details: TBD|
 
 #### Workshop Descriptions:
 
