@@ -6,7 +6,7 @@ If you are on-site in RTP, please attend the talks and workshops in person.  Sky
 
 |Date|Time|Title|Link|
 |----|----|-----|----|
-|Mon, Aug 12|1:00 PM - 5:25 PM|Keynote and Presentations|[Skype Webinar Link - TBD]()|
+|Mon, Aug 12|1:00 PM - 5:25 PM|Keynote and Presentations|[Skype Webinar Link](https://meet.lync.com/usepa/vega.ann/WRZ3TC38)|
 |Tues, Aug 13|8:00 AM - 11:30 AM|Introduction to R - Part 1|[Skype Webinar Link - TBD]()|
 |Tues, Aug 13|8:00 AM - 11:30 AM|Working with Spatial Data in R|[Skype Webinar Link - TBD]()|
 |Tues, Aug 13|8:00 AM - 11:30 AM|Using LaTeX and Markdown for Reproducible Research|[Skype Webinar Link - TBD]()|
