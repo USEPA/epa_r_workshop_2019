@@ -1,6 +1,6 @@
 # Laura Erban
 
-Laura is a Hydrologist with EPA ORD at the Atlantic Ecology Division. Her mission is to help people use water resources sustainably. Recent work has focused on groundwater: natural and man made contamination, transboundary overdraft, and pumping-induced land subsidence. These are wicked problems, emerging from complex socio-environmental systems. I believe new modes of systemic thought and practice are needed to address them.  
+Laura is a Hydrologist with EPA ORD.  Her mission is to help people use water resources sustainably.  Recent work has focused on consequences of groundwater contamination and overdraft, restoration of degraded watersheds and urban water systems.  These are wicked problems, emerging from complex socio-environmental systems.  Laura works with interdisciplinary teams within and outside of EPA to make progress towards solutions.
 
 # Cole Arendt
 
@@ -16,7 +16,7 @@ Kristen Foley is a Research Statistician in EPA/ORD's National Exposure Research
 
 # Elizabeth Mannshardt
 
-Elizabeth is the Acting Director of the Information Access and Analytic Services Division in USEPA's Office of Mission Support.  Prior to this role, she worked as a statistician studying air quality analysis in USEPA's Office of Air Quality Planning and Standards.
+Elizabeth is the Acting Director of the Information Access and Analytic Services Division in USEPA's Office of Mission Support.  Prior to this role, she worked as a statistician studying air quality analysis in USEPA's Office of Air Quality Planning and Standards. Elizabeth is also an Adjunct Associate Professor in the Department of Statistics at North Carolina State University.
 
 # Ben Wells
 
