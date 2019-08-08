@@ -18,6 +18,6 @@ Kristen Foley is a Research Statistician in EPA/ORD's National Exposure Research
 
 Elizabeth is a statistician and the Acting Director of the Information Access and Analytic Services Division in USEPA's Office of Mission Support.  Prior to this new role, she worked in extreme value analysis and environmental statistics as it relates to climate change. 
 
-# Ben Wells, USEPA, OAR,
+# Ben Wells
 
 Ben is a statistician with EPA's Office of Air and Radiation/Office of Air Quality Planning, and Standards.  Much of his work has foces on ambient air quality standards with a focus on ozone.  Ben was also one of the trailblazers in using Shiny at USEPA and he served as a guinea pig as we have worked out Shiny implementation details.
