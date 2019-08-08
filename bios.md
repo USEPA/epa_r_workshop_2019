@@ -1,6 +1,6 @@
 # Laura Erban
 
-Laura is a Hydrologist with EPA ORD at the Atlantic Ecology Division. Her mission is to help people use water resources sustainably. Recent work has focused on groundwater: natural and manmade contamination, transboundary overdraft, and pumping-induced land subsidence. These are wicked problems, emerging from complex socio-environmental systems. I believe new modes of systemic thought and practice are needed to address them.  
+Laura is a Hydrologist with EPA ORD at the Atlantic Ecology Division. Her mission is to help people use water resources sustainably. Recent work has focused on groundwater: natural and man made contamination, transboundary overdraft, and pumping-induced land subsidence. These are wicked problems, emerging from complex socio-environmental systems. I believe new modes of systemic thought and practice are needed to address them.  
 
 # Cole Arendt
 
@@ -16,8 +16,8 @@ Kristen Foley is a Research Statistician in EPA/ORD's National Exposure Research
 
 # Elizabeth Mannshardt
 
-Elizabeth is a statistician and the Acting Director of the Information Access and Analytic Services Division in USEPA's Office of Mission Support.  Prior to this new role, she worked in extreme value analysis and environmental statistics as it relates to climate change. 
+Elizabeth is the Acting Director of the Information Access and Analytic Services Division in USEPA's Office of Mission Support.  Prior to this role, she worked as a statistician studying air quality analysis in USEPA's Office of Air Quality Planning and Standards.
 
 # Ben Wells
 
-Ben is a statistician with EPA's Office of Air and Radiation/Office of Air Quality Planning, and Standards.  Much of his work has foces on ambient air quality standards with a focus on ozone.  Ben was also one of the trailblazers in using Shiny at USEPA and he served as a guinea pig as we have worked out Shiny implementation details.
+Ben is a statistician with EPA's Office of Air Quality Planning, and Standards.  Much of his work has focused on ambient air quality standards, particularly ozone.  Ben was also one of the trailblazers in using Shiny at USEPA and he served as a guinea pig as we have worked out Shiny implementation details.
