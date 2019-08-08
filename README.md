@@ -40,15 +40,15 @@ To find out more about each, follow this link to the "[Workshop Descriptions](#w
 |Time   |Room |Title                         |Speaker                    |
 |-------|-----|------------------------------|---------------------------|
 |**Morning Workshops**|||
-|8:30 AM - 12:00 AM|C111A|[Introduction to R - Part 1](https://github.com/USEPA/intro_r_workshop)|Jeff Hollister, US EPA, ORD/NHEERL, Clinton McCrowey, US EPA, Region 3|
+|8:30 AM - 12:00 AM|C111 A,B|[Introduction to R - Part 1](https://github.com/USEPA/intro_r_workshop)|Jeff Hollister, US EPA, ORD/NHEERL, Clinton McCrowey, US EPA, Region 3|
 |8:30 AM - 12:00 AM|C114|Working with Spatial Data in R|Marc Weber, US EPA, ORD/NHEERL and Michael McManus, US EPA, ORD/NCEA|
-|8:30 AM - 12:00 AM|C111C|Using LaTeX and Markdown for Reproducible Research|Eric Beck, US EPA, Region 1 and Emily Li, US EPA, ORD/NRMRL|
+|8:30 AM - 12:00 AM|C111 C|Using LaTeX and Markdown for Reproducible Research|Eric Beck, US EPA, Region 1 and Emily Li, US EPA, ORD/NRMRL|
 |**Lunch**||||
 |12:00 AM - 1:30 PM||On your own||
 |**Afternoon Workshops**|||||
-|1:30 PM - 5:00 PM|C111A|[Introduction to R - Part 2](https://github.com/USEPA/intro_r_workshop)|Jeff Hollister, US EPA, ORD/NHEERL, Clinton McCrowey, US EPA, Region 3|
+|1:30 PM - 5:00 PM|C111 A,B|[Introduction to R - Part 2](https://github.com/USEPA/intro_r_workshop)|Jeff Hollister, US EPA, ORD/NHEERL, Clinton McCrowey, US EPA, Region 3|
 |1:30 PM - 5:00 PM|C114|Network Analysis/Graph Analysis techniques|Nate Pollesch, US EPA, ORD/NHEERL and Jennifer Olker, US EPA, ORD;NHEERL|
-|1:30 PM - 5:00 PM|C111C|An Introduction to Shiny, R Markdown & htmlwidgets with Applications in Research|Phil Bowsher, RStudio|
+|1:30 PM - 5:00 PM|C111 C|An Introduction to Shiny, R Markdown & htmlwidgets with Applications in Research|Phil Bowsher, RStudio|
 
 ## Wed, August 14
 
