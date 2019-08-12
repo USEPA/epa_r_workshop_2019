@@ -1,3 +1,7 @@
+# JD Long
+
+By training, JD is a agricultural economist but in his day job he is a data scientist and quantitative risk manager with RenaissanceRE.  He has experience in insurance, reinsurrance, market risk, and stocahstic modelling.  In addition to this, JD has long been a contributor to the R community.  He founded the Chicago R Users Group, is a regular contributor to the NYC R users group, and most recently co-authored the 2nd edition of the R Cookbook (drawing to be held later!).  Also, those of you that are local should keep an eye out for him as he will soon be working several days a week in the Raleigh RenRe office.  Stuff about why he was a good fit to talk to EPA.
+
 # Laura Erban
 
 Laura is a Hydrologist with EPA ORD.  Her mission is to help people use water resources sustainably.  Recent work has focused on consequences of groundwater contamination and overdraft, restoration of degraded watersheds and urban water systems.  These are wicked problems, emerging from complex socio-environmental systems.  Laura works with interdisciplinary teams within and outside of EPA to make progress towards solutions.
